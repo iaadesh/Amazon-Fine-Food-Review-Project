@@ -1,0 +1,30 @@
+h1{
+    padding-top: 10px;
+    font-family: calibri;
+    text-decoration: underline;
+    color: black;
+}
+
+#enter_button{
+    height: 30px;
+    border-radius: 5px;
+    width: 80px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(28, 184, 28);
+}
+
+.predict-label{
+    font-size: 20px;
+    font-family: calibri;
+    color: black;
+}
+
+.predict{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: calibri;
+    text-decoration: underline;
+    color: black;
+}
